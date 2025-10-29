@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/OfficeAttempt.unity
-    guid: 17f73d5c533f8ef429b05b4fffa65146
+    path: Assets/Lab.unity
+    guid: e9f68ba5bf1877542ac8616eaa8dd599
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
