@@ -232,7 +232,7 @@ MonoBehaviour:
         asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Version: 0
-        m_VolumeProfile: {fileID: 11400000, guid: 9fce06d5bda0e7841a2c791e4a0aaa46,
+        m_VolumeProfile: {fileID: 11400000, guid: a6560a915ef98420e9faacc1c7438823,
           type: 2}
     - rid: 1743583005229449225
       type: {class: UniversalRenderPipelineRuntimeShaders, ns: UnityEngine.Rendering.Universal,
@@ -457,7 +457,7 @@ MonoBehaviour:
       data:
         m_Version: 0
         m_ExportShaderVariants: 1
-        m_ShaderVariantLogLevel: 0
+        m_ShaderVariantLogLevel: 2
         m_StripRuntimeDebugShaders: 1
     - rid: 1743583005229449242
       type: {class: VrsRenderPipelineRuntimeResources, ns: UnityEngine.Rendering,
